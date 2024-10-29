@@ -1,0 +1,7 @@
+#bagelAISetttingsWrapper,
+#bagel_ai_editor {
+    background-color: rgba(250,251,253,1);
+}
+#bagelAIResults {
+    min-height: 325px !important;
+}
